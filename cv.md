@@ -33,12 +33,12 @@ Religion: Christian
   
 ### Position
 
-- March 2023-Now: Head of the Department of Mathematics
+- March 2023- Now: Assistant Professor of Mathematics at
 [Kotebe University of Education (KUE), Addis Ababa, Ethiopia,](www.kue.edu.et)
 
 ### Work Experience
 
-- Jan. 2023- Now: Assistant Professor in the Department of Mathematics, [KUE, Addis Ababa, Ethiopia,](www.kue.edu.et) <br/>
+- March. 2023- Jan 2025: Head of the Department of Mathematics, [KUE, Addis Ababa, Ethiopia,](www.kue.edu.et) <br/>
 - Oct. 2017- Dec. 2022: Lecturer in the Department of Mathematics, [KUE, Addis Ababa, Ethiopia,](www.kue.edu.et) <br/>
 - Feb 2019- June 2022: Part-time Lecturer at Rift Valley University, [Rift Valley University, Addis Ababa, Ethiopia,](www.rvu.edu.et) <br/>
 - Oct. 2014- Sep.2017: Lecturer in the Department of Mathematics, [Welkite University, SNNPR, Ethiopia,](www.wku.edu.et) <br/>
