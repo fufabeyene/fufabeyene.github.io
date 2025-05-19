@@ -20,6 +20,7 @@ My Ph.D. Dissertation, defended in January 2023, was about some combinatorial re
 
 
 ### Research talks
+- _Families of Type B Set Partitions Counted by the Dowling Numbers_, 2025, IRIF, [Université de Paris Cité](https://www.irif.fr/seminaires/combi/index)
 - _Mergin-free Partitions and Run-Sorted Permutations_, Arusha, Tanzania [2023 EAUMP-ICTP School on Enumerative Combinatorics](https://indico.ictp.it/event/10188)
 - _Mathematics in Schools_, a talk at Cambridge Academy, Addis Ababa, Ethiopia, [June 2023](Why Math CambridgeAcademy.pdf)
 - _Bell Number Enumerated Classes of Subexcedant Functions and Bijections on Set Partitions_, Ph.D. students seminar, Stockholm University, Sweden, April 22, 2022.
